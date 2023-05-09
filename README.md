@@ -1,5 +1,8 @@
 # Dotfiles
-:large_blue_circle: Dotfiles Workflow for Alfred
+:large_blue_circle: Open dotfiles with ease with this workflow for Alfred 5. 
+
+![image](https://user-images.githubusercontent.com/14079937/237040700-5fe54f96-4753-4018-87aa-9874aa95ef8a.png)
+
 
 # Install
 
